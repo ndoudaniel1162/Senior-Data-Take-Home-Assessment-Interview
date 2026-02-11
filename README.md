@@ -13,7 +13,7 @@ This project implements a streaming data ingestion platform for high-volume IoT 
 ```bash
 # Clone the repository
 git clone https://github.com/ndoudaniel1162/Senior-Data-Take-Home-Assessment-Interview.git
-cd iot-telemetry-platform-daniel-ndou
+cd Senior-Data-Take-Home-Assessment-Interview
 
 # Create virtual environment
 python -m venv venv
@@ -198,3 +198,4 @@ Daniel Ndou - Senior Data Engineer Technical Assessment
 ## License
 
 Open Source - Educational/Assessment Purpose
+
